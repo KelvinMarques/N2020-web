@@ -57,8 +57,17 @@ body{
     font-size: 64px;
     /* float: right; */
     text-align: right; 
-    margin: 350px 50px 0 0;
-    
+    margin: 300px 50px 0 0;
+    font-weight: bold;
+}
+
+.home h3{
+    color: white;
+    font-size: 32px;
+    /* float: right; */
+    text-align: right; 
+    margin: 20px 60px 0 0;
+    font-weight: 600;
 }
 
 /* Slide 2 */
