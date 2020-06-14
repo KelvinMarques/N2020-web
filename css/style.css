@@ -112,9 +112,10 @@ body{
 h3{
     font-size: 56px;
     font-weight: bold;
-    margin: 0 30px;
+    margin: 0 40px;
     
 }
+
 .conteudo p{
     font-size: 36px;
     margin: 50px 30px;
@@ -163,7 +164,7 @@ h3{
 }
 
 .equipe{
- padding: 250px 530px;
+ padding: 250px 520px;
  box-sizing: border-box;
 }
 .fotos{
