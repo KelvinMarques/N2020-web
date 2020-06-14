@@ -127,7 +127,7 @@ h3{
     height: 150px;
     display: inline-block;
     border-radius: 10px;
-    border: 1px solid #2e2e3a;
+    
     background-color: #c4c4c4;
     
 }
@@ -140,19 +140,21 @@ h3{
     width: 100%;
     height: 100%;
 }
-.icone_A img{
-    width: 98%;
-    height: 98%;
-    background-color: #faf9f9;
+.icone_A i{
+    font-size: 130px;
+    color: #111111;
+    margin: auto;
+    padding: 10px 0 0 15px;
 }
-.icone_B img{
-    width: 98%;
-    height: 98%;
-    
+.icone_B i{
+    font-size: 110px;
+    color: #111111;
+    margin: auto;
+    padding: 15px 5px;
 }
 
 .equipe{
- padding: 250px 570px;
+ padding: 250px 500px;
  box-sizing: border-box;
 }
 .fotos{
