@@ -172,13 +172,49 @@ h3{
     height: 200px;
     margin: auto;
     position: relative;
-    bottom: 100px;
+    bottom: 120px;
 }
 .foto1, .foto2,.foto3,.foto4{
     background-color: #c4c4c4;
     display: inline-block;
     width: 150px;
     height: 150px;
-    margin: 25px 35px;
+    margin: 35px 35px;
     border-radius: 10px;
+    
+}
+.foto1,.foto2,.foto3,.foto4 i{
+    font-size: 130px;
+    color: #111111;
+    padding: 10px 0 0 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.dados{
+    width: 900px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    bottom: 120px;
+}
+.dados1,.dados2,.dados3,.dados4 {
+    /* background-color: #c4c4c4; */
+    display: inline-block;
+    text-align: center;
+    width: 210px;
+    margin: 35px 5px;
+}
+.dados4{
+    margin: 35px 0;
+}
+.dados1,.dados2,.dados3,.dados4 p {
+    font-size: 24px;
+    color: #faf9f9;
+    margin: 5px 6px;
+}
+.cargo{
+    font-weight: 600;
+    font-style: italic;
+    margin: 20px 0;
 }
