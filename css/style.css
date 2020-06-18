@@ -41,7 +41,7 @@ body{
 }
 
 .navbar ul li{
-    color: rgb(255, 255, 255);
+    
     display: inline-block;
 
     float: right;
@@ -51,7 +51,10 @@ body{
     
     opacity: 1;
 }
-
+.navbar a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
 .home h2{
     color: white;
     font-size: 64px;
@@ -217,4 +220,15 @@ h3{
     font-weight: 600;
     font-style: italic;
     margin: 20px 0;
+}
+.rodape{
+    height: 80px;
+    width: 100%;
+    margin-top: 120px;
+    background-color: #191920;
+}
+.rodape p{
+    font-size: 24px;
+    color: #faf9f9;
+    text-align: center;
 }
